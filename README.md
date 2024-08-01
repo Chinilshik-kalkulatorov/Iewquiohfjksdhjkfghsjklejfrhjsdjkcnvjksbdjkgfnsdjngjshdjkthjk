@@ -99,6 +99,6 @@ Water flows through a pipe that narrows from a diameter of 0.1 m to 0.05 m. If t
 
    $\frac{p_1 - p_2}{\rho} = 30$
 
-   If $\rho = 1000 \, \text{kg/m}^3$:
+   If $\rho = 1000 \ \text{kg/m}^3$:
 
-   $p_1 - p_2 = 30 \cdot 1000 = 30000 \, \text{Pa} \text{ or } 30 \, \text{kPa}$
+   $p_1 - p_2 = 30 \cdot 1000 = 30000 \, \text{Pa} \text{ or } 30 \ \text{kPa}$
