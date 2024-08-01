@@ -30,10 +30,12 @@ The Carnot cycle is a theoretical thermodynamic cycle that provides the maximum 
 ### Diagrams
 
 #### P-V Diagram
-![P-V Diagram](path/to/your/p-v-diagram.png)
+![image](https://github.com/user-attachments/assets/3b4311e2-cc30-4592-9279-a76e8ad80cbe)
+
 
 #### T-S Diagram
-![T-S Diagram](path/to/your/t-s-diagram.png)
+![image](https://github.com/user-attachments/assets/bc5d7ec7-0e7e-423d-af94-840d60085af0)
+
 
 ### Efficiency Calculation
 The efficiency of a Carnot cycle is given by:
