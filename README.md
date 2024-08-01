@@ -80,13 +80,13 @@ Water flows through a pipe that narrows from a diameter of 0.1 m to 0.05 m. If t
 1. **Velocity Calculation:**
    Using the continuity equation $A_1 v_1 = A_2 v_2$:
 
-   $A_1 = \pi \left(\frac{0.1}{2}\right)^2 = 0.00785 \, \text{m}^2$
+   $A_1 = \pi \left(\frac{0.1}{2}\right)^2 = 0.00785 \ \text{m}^2$
 
-   $A_2 = \pi \left(\frac{0.05}{2}\right)^2 = 0.00196 \, \text{m}^2$
+   $A_2 = \pi \left(\frac{0.05}{2}\right)^2 = 0.00196 \ \text{m}^2$
 
    $0.00785 \cdot 2 = 0.00196 \cdot v_2$
 
-   $v_2 = \frac{0.00785 \cdot 2}{0.00196} = 8 \, \text{m/s}$
+   $v_2 = \frac{0.00785 \cdot 2}{0.00196} = 8 \ \text{m/s}$
 
 2. **Pressure Difference Calculation:**
    Using Bernoulli's equation:
